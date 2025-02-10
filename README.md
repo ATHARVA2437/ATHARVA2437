@@ -1,4 +1,4 @@
-# 💫 About Me: Hii I am Atharva Rathi
+# 💫 About Me: Hii I am Atharva Rathi!
 I’m currently working on: Design an annual report portal for an educational institute.<br>🤝 I’m looking to collaborate on: Data analytics, machine learning, and cloud computing projects.<br>🆘 I’m looking for help with: Optimizing machine learning models and real-world data applications.<br>🌱 I’m currently learning: Advanced data analysis techniques, cloud infrastructure, and UI/UX design.<br>💬 Ask me about: Machine learning, data analytics, embedded systems, and cloud computing.<br>⚡ Fun fact: I love exploring new tech trends, and building innovative solutions.
 
 
